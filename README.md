@@ -1,4 +1,10 @@
 ### Hi there 👋
+## Muhammad Ihsan Kurnia Al-Karim
+=====
+**Software Engineer
+- Mobile Development Kotlin & Flutter 
+- Web Development Nodejs
+
 
 <!--
 **ihsankarim/ihsankarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
