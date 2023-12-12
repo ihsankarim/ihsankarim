@@ -20,8 +20,7 @@ Welcome to my GitHub profile! I'm Ihsan, a passionate software engineer who love
 ### Web Development
 
 - **Languages:** JavaScript (Node.js), PHP
-- **Frameworks:** Express.js, Laravel
-- **Database:** MongoDB, MySQL
+- **Frameworks:** Express.js, React.js, Laravel
 
 ## 🤝 Let's Connect
 
