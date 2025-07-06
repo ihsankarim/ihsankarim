@@ -1,26 +1,26 @@
 # Hi there! 👋
 ## Muhammad Ihsan Kurnia Al-Karim
 
-🚀 Software Engineer | 📱 Mobile Development (Kotlin) | 💻 Web Development (Node.js)
+🚀 Software Engineer | 📱 Mobile Development | 💻 Web Development 
 
 Welcome to my GitHub profile! I'm Ihsan, a passionate software engineer who loves building innovative and user-friendly applications. Currently, I'm focused on learning Android development using Kotlin and web development with Node.js.
 
 ## 🌱 What I'm currently up to
 
-- 📱 Learning Android development with Kotlin.
-- 💻 Exploring web development using Node.js.
+- 📱 Learning Android development with Kotlin and Flutter.
+- 💻 Exploring web development using Node.js, Laravel, and Go.
 
 ## 🚀 Technologies & Tools
 
 ### Mobile Development
 
-- **Languages:** Kotlin
-- **Frameworks:** Android Jetpack, Jetpack Compose
+- **Languages:** Kotlin, Dart
+- **Frameworks:** Android Jetpack, Jetpack Compose, Flutter
 
 ### Web Development
 
-- **Languages:** JavaScript (Node.js), PHP
-- **Frameworks:** Express.js, React.js, Laravel
+- **Languages:** JavaScript (Node.js), PHP, Go
+- **Frameworks:** Express.js, React.js, Laravel, Fiber
 
 ## 🤝 Let's Connect
 
