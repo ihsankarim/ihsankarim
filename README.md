@@ -3,7 +3,7 @@
 
 🚀 Software Engineer | 📱 Mobile Development | 💻 Web Development 
 
-Welcome to my GitHub profile! I'm Ihsan, a passionate software engineer who loves building innovative and user-friendly applications. Currently, I'm focused on learning Android development using Kotlin and web development with Node.js.
+Welcome to my GitHub profile! I'm Ihsan, a passionate software engineer who loves building innovative and user-friendly applications. Currently, I'm focused on learning Android development using Kotlin & Flutter and web development with Node.js, Laravel and Go.
 
 ## 🌱 What I'm currently up to
 
